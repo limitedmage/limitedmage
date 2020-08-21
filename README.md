@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Juliana Peña, a software engineer. I love bringing to life powerful software that delight users and make their lives better.
+
 <!--
 **limitedmage/limitedmage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
